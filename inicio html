@@ -1,0 +1,30 @@
+https://www.w3schools.com/html/default.asp
+codeanywhere.com
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My profile</title>
+    <meta charset="UTF-8">
+  </head>
+<body>
+  <!-- Tag para comentario -->
+  <h1>Bem vindos</h1>
+  <p>Essa é a minha página pessoal</p>
+  <img src="imagens/aviao.jpg" alt="Aviao"/>
+  <br>
+  <a href="pagina1.html">
+  <button>
+    nao clique aqui
+  </button>
+  </a>
+  <br>
+<form>
+primeiro nome:<br>
+  <input type="text" name="primeironome"><br>
+ultimo nome:<br>
+  <input type="text" name="ultimonome"><br>
+  <input type="submit" value="Enviar">
+</form>
+</body>
+</html>
